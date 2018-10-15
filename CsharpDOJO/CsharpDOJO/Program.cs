@@ -19,7 +19,7 @@ namespace CsharpDOJO.MultiThreading
             {
                 Console.Write(String.Format("Main {0} ", i));
             }
-
+            //The results will never be the same 
         }
 
         private static void WriteUsingANewThread()
