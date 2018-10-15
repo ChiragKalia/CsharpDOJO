@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CsharpDOJO.MultiThreading
 {
-    class Program
+    class ContextSwitching
     {
         static void Main(string[] args)
         {
